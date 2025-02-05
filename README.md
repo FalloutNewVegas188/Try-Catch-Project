@@ -1,4 +1,4 @@
-1. Read the input Excel File
+1. Read the input Excel File.
 2. Calculate the difference btw the Cash In and Cash Out values for each row. Store the calculated differences in the column called "Difference"
 3. If the difference calculation is successful, set the Status colum to "Success"
 4. If there is an error during the conversion of Cash In and Cash Out values, set the Status column to either "Cash In Wrong" or "Cash Out Wrong"
